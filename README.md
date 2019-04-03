@@ -6,6 +6,8 @@ WEB - приложение сделано c springframework. Чат с испо�
 
 Подробнее можно узнать на сaйте spring: https://spring.io/guides/gs/securing-web/
 
+История::
+
 добавлена регистация для входа в общий чат
 
 ![](https://github.com/ilinoa/sweater-Spring/blob/master/sweater/img/registration1%20.png)
