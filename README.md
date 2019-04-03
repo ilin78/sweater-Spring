@@ -6,7 +6,11 @@ WEB - приложение сделано c springframework. Чат с испо�
 
 Подробнее можно узнать на сaйте spring: https://spring.io/guides/gs/securing-web/
 
-от 02/04/19 добавлена регистация для использования чата
+добавлена регистация для использования чата
+
+![](https://github.com/ilinoa/sweater-Spring/blob/master/sweater/img/registration1%20.png)
+
+![](https://github.com/ilinoa/sweater-Spring/blob/master/sweater/img/registration2%20.png)
 
 
 
