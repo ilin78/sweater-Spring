@@ -14,7 +14,7 @@ WEB - приложение сделано c springframework. Чат с испо�
 
 Изменен вывод сообщений / сохраняется запись о авторе сообщения
 
-![] (https://github.com/ilinoa/sweater-Spring/blob/master/sweater/img/info%20psql%20%20.png)
+![](https://github.com/ilinoa/sweater-Spring/blob/master/sweater/img/info%20psql%20%20.png)
 
-![] (https://github.com/ilinoa/sweater-Spring/blob/master/sweater/img/main%20message%20and%20author.png)
+![](https://github.com/ilinoa/sweater-Spring/blob/master/sweater/img/main%20message%20and%20author.png)
 
