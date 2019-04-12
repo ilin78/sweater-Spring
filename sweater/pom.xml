@@ -35,10 +35,10 @@
 			<artifactId>spring-boot-starter-jdbc</artifactId>
 		</dependency>
 
-		<!-- mustache -->
+		<!-- not mustache: this is freemarker-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-mustache</artifactId>
+			<artifactId>spring-boot-starter-freemarker</artifactId>
 		</dependency>
 
 
