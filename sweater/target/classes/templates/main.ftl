@@ -4,7 +4,8 @@
 <@c.page>
 	<div>
 		<@l.logout />
-	</div>
+		<span><a href="/user">User list</a></span>
+	</div> 
 	<div>
 		<form method="post">
 			﻿<input type="text" name="text" placeholder="Введите сообщение" /> 
